@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrаtor\Мои документы\SharpDevelop Projects\df1\df1\bin\Debug\df1.exe
+C:\Documents and Settings\Administrаtor\Мои документы\SharpDevelop Projects\df1\df1\bin\Debug\df1.pdb
+C:\Documents and Settings\Administrаtor\Мои документы\SharpDevelop Projects\df1\df1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrаtor\Мои документы\SharpDevelop Projects\df1\df1\obj\x86\Debug\df1.exe
+C:\Documents and Settings\Administrаtor\Мои документы\SharpDevelop Projects\df1\df1\obj\x86\Debug\df1.pdb
