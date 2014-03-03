@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-# SharpDevelop 3.2.1.6466
+# SharpDevelop 4.3
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "df1", "df1\df1.csproj", "{2634A4A6-15B0-40B2-B334-01173A93D75B}"
 EndProject
 Global
