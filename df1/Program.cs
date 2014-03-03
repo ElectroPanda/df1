@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+//using System.Linq;
 using System.Text;
 //using System.Threading.Tasks;
 
@@ -99,12 +99,12 @@ namespace df1
             switch(args.Length) //Выбор в зависимости от количества аргументов переданных командной строке
             {
             case 0:
-                Console.WriteLine("Not enough parameters!");
+                Console.WriteLine("Not enough parameters!!!	");
                
             break;
             
             case 1:
-           		Console.WriteLine("Not enough parameters!");
+           		Console.WriteLine("Not enough parameters!!! ");
           
             break;
            
